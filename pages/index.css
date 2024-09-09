@@ -1,8 +1,3 @@
 @import url("../vendor/normalize.css");
 @import url("../vendor/fonts.css");
-@import url("../vendor/page.css");
-@import url("../vendor/header.css");
-@import url("../vendor/content.css");
-@import url("../vendor/footer.css");
-@import url("../vendor/profile.css");
-@import url("../vendor/cards.css");
+@import url("../blocks/page.css");
