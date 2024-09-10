@@ -101,14 +101,7 @@
 .card__list {
   display: grid;
   justify-content: center;
-  grid-template-columns: repeat(auto-fit, 282px);
-  grid-gap: 20px 17px;
-  padding-left: 0px;
-}
 
-.card__description {
-  display: flex;
-  background-color: white;
   color: black;
   padding-top: 20px;
   padding-bottom: 25px;
@@ -125,3 +118,29 @@
   width: 21px;
   height: 18px;
 }
+
+/* @media screen and (max-width: 480px) {
+  .profile {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .profile__info {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    padding-left: 62px;
+    padding-right: 62px;
+  }
+
+  .profile__description {
+    width: 100%;
+    text-align: center;
+  }
+
+  .profile__add-button {
+    margin: 0;
+    width: 100%;
+  }
+}*/
