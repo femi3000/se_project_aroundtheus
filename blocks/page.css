@@ -101,7 +101,14 @@
 .card__list {
   display: grid;
   justify-content: center;
+  grid-template-columns: repeat(auto-fit 292px);
+  grid-gap: 20px 17px;
+  padding-left: 0;
+}
 
+.card_description {
+  display: flex;
+  background-color: white;
   color: black;
   padding-top: 20px;
   padding-bottom: 25px;
