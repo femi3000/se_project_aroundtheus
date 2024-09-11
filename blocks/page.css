@@ -120,6 +120,12 @@
   border-radius: 0 0 10px 10px;
 }
 
+.card__description-title {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
 .card__like-button {
   background: transparent url(../images/likebutton_inactive.svg) center
     no-repeat;
@@ -127,7 +133,12 @@
   height: 18px;
 }
 
-/* @media screen and (max-width: 480px) {
+@media screen and (max-width: 480px) {
+  .page__section {
+    margin: 0 20px;
+    max-width: calc(100% -40px);
+  }
+
   .profile {
     flex-direction: column;
     justify-content: center;
@@ -151,4 +162,4 @@
     margin: 0;
     width: 100%;
   }
-}*/
+}
