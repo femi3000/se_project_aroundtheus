@@ -3,6 +3,7 @@
   flex-direction: column;
   list-style: none;
   border-radius: 10px;
+  overflow: hidden;
 }
 
 .card__description {
@@ -33,6 +34,7 @@
     no-repeat;
   width: 21px;
   height: 18px;
+  border: none;
 }
 
 .card__like-button:hover {
