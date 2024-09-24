@@ -23,4 +23,4 @@ The way you'll do this at work is by exporting images directly from Figma — we
 Good luck and have fun!
 
 Notes for Reviewer:
-For the comment in the html file I am confused the image says .svg
+For the comment in the html file I am confused the image says logo.svg
