@@ -22,5 +22,11 @@ The way you'll do this at work is by exporting images directly from Figma — we
 
 Good luck and have fun!
 
-Notes for Reviewer:
-For the comment in the html file I am confused the image says logo.svg
+1. Project Name
+   1a. Around the US - Sprint 3
+
+2. The sprint shows the flexibility of using grids and flexboxes to maintain the format of the site
+
+3. For this sprint i utilized flexboxes and grid layouts to maintain a friction free diplay grid to showcase a series of images and text associated with those images.
+
+4. I will wait until all of my edits are complete before creating a video
