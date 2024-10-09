@@ -7,10 +7,8 @@
 .page__content {
   display: flex;
   flex-direction: column;
-  /* justify-content: center;
-  min-height: 100vh;
-  margin: 0 auto;
-  max-width: 880px; */
+  margin-left: 200px;
+  margin-right: 200px;
 }
 
 .page__section {
@@ -37,21 +35,8 @@
   }
 }
 
-/* @media (max-width: 768px) {
+@media (max-width: 320px) {
   .page__content {
-    max-width: 768px;
     margin: 0;
   }
-
-  .page__section {
-    display: grid;
-    max-width: 768px;
-    position: relative;
-    margin: 0;
-    grid-template-areas:
-      "title"
-      "button"
-      "description"
-      "add-button";
-  }
-} */
+}
