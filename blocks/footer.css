@@ -11,9 +11,10 @@
 .footer__text {
   margin-bottom: 45px;
   margin-top: 45px;
+  text-align: center;
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 320px) {
   .footer {
     padding-left: 19px;
     margin-top: 48px;
