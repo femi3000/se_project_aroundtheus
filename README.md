@@ -20,6 +20,10 @@ The way you'll do this at work is by exporting images directly from Figma — we
 
 **Video Link**
 
+https://www.loom.com/share/534fae703ba34b6085287e56a8b62d5d?sid=efb03fc4-5cf0-458b-893c-31b8872a7eee
+
+https://femi3000.github.io/se_project_aroundtheus/
+
 Good luck and have fun!
 
 1. Project Name
